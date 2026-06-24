@@ -11,6 +11,10 @@ A premium, cinematic weather dashboard. Luxury glassmorphism aesthetic, ocean-in
 - **Cinematic motion** — Framer Motion drives page load, fade-rise transitions, hover states, and theme crossfades.
 - **Typography** — Instrument Serif for cinematic headings, Inter for body.
 
+## Live Demo
+
+https://cloud-harbor.vercel.app/
+
 ## Getting started
 
 ```bash
